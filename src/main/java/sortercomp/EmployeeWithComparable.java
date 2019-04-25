@@ -16,11 +16,13 @@ public class EmployeeWithComparable implements Comparable {
         this.name = name;
     }
 
-    public static void showDepartment(Collection<EmployeeWithComparable> department) {
-        String result = department.stream()
-                .map(employee -> employee.getName())
-                .collect(Collectors.joining(", ", "{", "}"));
-        System.out.println(result);
+    public static void showCollection(Collection<EmployeeWithComparable> collection) {
+        if (collection != null) {
+            String result = collection.stream()
+                    .map(employee -> employee.getName())
+                    .collect(Collectors.joining(", ", "{", "}"));
+            System.out.println(result);
+        }
     }
 
     @Override
@@ -31,8 +33,11 @@ public class EmployeeWithComparable implements Comparable {
         return this.getName().compareTo(emp.getName());
     }
 
-    public static NavigableSet<EmployeeWithComparable> sort(Collection<EmployeeWithComparable> department) {
-        NavigableSet<EmployeeWithComparable> s = new TreeSet(department);
-        return s;
+    public static NavigableSet<EmployeeWithComparable> sort(Collection<EmployeeWithComparable> collection) {
+        if (collection != null) {
+            NavigableSet<EmployeeWithComparable> s = new TreeSet(collection);
+            return s;
+        }
+        return null;
     }
 }
