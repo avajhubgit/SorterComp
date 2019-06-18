@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49363ba1-2cd5-4113-8aef-7be2daea181d" name="Default" comment="[.] NullPointerExeption&#10;[.] Change path for test-file&#10;[.] Rename &quot;RunDepartment&quot; to &quot;EmployeeTest&quot;&#10;[.] Rename &quot;department&quot; - &quot;collectionEmployee&quot;&#10;[.] add addAll();&#10;[.] Refactor- add new classs EmployeeUtils - list of Employee﻿">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/META-INF/LambdasAndStreams.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/main/java/sortercomp/ParseLamb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/main/java/sortercomp/ParseLambUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/main/java/sortercomp/ParseWithOutLamb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/test/java/ParseLambMainTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdasAndStreams/test/java/ParseLambTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java" afterDir="false" />
@@ -40,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+            <state relative-caret-position="154">
+              <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="24" />
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,7 +222,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560853134834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560853314516" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -465,7 +472,7 @@
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20437567" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20437567" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,7 +486,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.56067413" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5595506" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5613661" side_tool="true" weight="0.49048153" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.43595505" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.45731056" weight="0.3280899" />
@@ -580,27 +587,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -614,7 +604,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="24" />
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

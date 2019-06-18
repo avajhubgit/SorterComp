@@ -14,7 +14,7 @@ public class ParseLambTest {
     @Test
     public void extractNumberWithLambda() {
         ParseLamb parseLamb = new ParseLamb();
-        assertEquals("", "", parseLamb.extractNumberFromString(""));
+        assertEquals("", "", parseLamb.extractNumberFromcommString(""));
         assertEquals("", "0123456789.", parseLamb.extractNumberFromString("0123456789."));
         assertEquals("", "78025679", parseLamb.extractNumberFromString("78x025K67z9"));
 
