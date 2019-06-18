@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49363ba1-2cd5-4113-8aef-7be2daea181d" name="Default" comment="[.] NullPointerExeption&#10;[.] Change path for test-file&#10;[.] Rename &quot;RunDepartment&quot; to &quot;EmployeeTest&quot;&#10;[.] Rename &quot;department&quot; - &quot;collectionEmployee&quot;&#10;[.] add addAll();&#10;[.] Refactor- add new classs EmployeeUtils - list of Employee﻿">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParseLambTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SorterComp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LambdasAndStreams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortercomp/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeWithComparable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortercomp/SortByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmployeeMainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParseLambMainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Befu$RunBefu.coverage" NAME="RunBefu Coverage Results" MODIFIED="1519589788637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambMainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/math/BigInteger.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-717">
+              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//System.out.println(b.sort(e).toString());</find>
+      <find>depart</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="avajhubgit" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/A.java" />
+        <option value="$PROJECT_DIR$/src/B.java" />
+        <option value="$PROJECT_DIR$/src/RunBefu.java" />
+        <option value="$PROJECT_DIR$/src/RunStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RunBefu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RunStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/RunStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/RunBefu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/EnumCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/EnumCheckWithInstanceField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/EnumOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/RunEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.befu/EnumOperationWithAbstractMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/RunEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/SortByName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/Emp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/RunStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/Employes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/RunDepartment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeClass1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeWithComparable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EmployeeMain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EmployeeMainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/EmployeeUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/ParseWithoutLamb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParseLambTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LambdasAndStreams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdasAndStreams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LambdasAndStreams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdasAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LambdasAndStreams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdasAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LambdasAndStreams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdasAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sortercomp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LambdasAndStreams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LambdasAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560853134834" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40114942" />
+    <property name="settings.editor.selected.configurable" value="android.dex.compiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ParseLambTest">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunSorterComp" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/java/latest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambMainTest" />
+      <module name="LambdasAndStreams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseLambTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseLambTest.extractNumberFromString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambTest" />
+      <option name="METHOD_NAME" value="extractNumberFromString" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseLambTest.extractNumberWithLambda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambTest" />
+      <option name="METHOD_NAME" value="extractNumberWithLambda" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseLambTest.extractNumberWithOutLambda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambTest" />
+      <option name="METHOD_NAME" value="extractNumberWithOutLambda" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseLambTest.lambdaAndStreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ParseLambTest" />
+      <option name="METHOD_NAME" value="lambdaAndStreamTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunSorterComp" />
+      <item itemvalue="JUnit.ParseLambTest" />
+      <item itemvalue="JUnit.ParseLambTest.extractNumberFromString" />
+      <item itemvalue="JUnit.ParseLambTest.extractNumberWithLambda" />
+      <item itemvalue="JUnit.ParseLambTest.extractNumberWithOutLambda" />
+      <item itemvalue="JUnit.ParseLambTest.lambdaAndStreamTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParseLambTest" />
+        <item itemvalue="JUnit.ParseLambTest.lambdaAndStreamTest" />
+        <item itemvalue="JUnit.ParseLambTest.extractNumberWithOutLambda" />
+        <item itemvalue="JUnit.ParseLambTest.extractNumberWithLambda" />
+        <item itemvalue="JUnit.ParseLambTest.extractNumberFromString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49363ba1-2cd5-4113-8aef-7be2daea181d" name="Default" comment="" />
+      <created>1518436313760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518436313760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="All done.">
+      <created>1553457173450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553457173450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[.] NullPointerExeption&#10;[.] Change path for test-file&#10;[.] Rename &quot;RunDepartment&quot; to &quot;EmployeeTest&quot;&#10;[.] Rename &quot;department&quot; - &quot;collectionEmployee&quot;&#10;[.] add addAll();&#10;[.] Refactor- add new classs EmployeeUtils - list of Employee﻿">
+      <created>1556174633832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556174633832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 06m 51s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 08m 31s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 12m 13s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 14m 04s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 14m 10s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 10h 24m 41s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 12h 22m 24s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest_lambdaAndStreamTest - 2019.06.18 at 12h 49m 00s.xml">
+      <configuration name="ParseLambTest.lambdaAndStreamTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest - 2019.06.18 at 13h 01m 32s.xml">
+      <configuration name="ParseLambTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseLambTest - 2019.06.18 at 13h 02m 09s.xml">
+      <configuration name="ParseLambTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20437567" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.491453" weight="0.3280899" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.43863395" weight="0.4280899" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.56067413" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5613661" side_tool="true" weight="0.49048153" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.43595505" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.45731056" weight="0.3280899" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All done." />
+    <MESSAGE value="[.] NullPointerExeption&#10;[.] Change path for test-file&#10;[.] Rename &quot;RunDepartment&quot; to &quot;EmployeeTest&quot;&#10;[.] Rename &quot;department&quot; - &quot;collectionEmployee&quot;&#10;[.] add addAll();&#10;[.] Refactor- add new classs EmployeeUtils - list of Employee﻿" />
+    <option name="LAST_COMMIT_MESSAGE" value="[.] NullPointerExeption&#10;[.] Change path for test-file&#10;[.] Rename &quot;RunDepartment&quot; to &quot;EmployeeTest&quot;&#10;[.] Rename &quot;department&quot; - &quot;collectionEmployee&quot;&#10;[.] add addAll();&#10;[.] Refactor- add new classs EmployeeUtils - list of Employee﻿" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LambdasAndStreams.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/latest/src.zip!/java/util/function/IntConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/RunBefu.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/RunEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/EnumOperationWithAbstractMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/EnumOperation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/EnumCheck.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/EnumCheckWithInstanceField.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/B.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-1.8.0.201.b09-2.fc29.x86_64/jre/lib/rt.jar!/java/util/NavigableSet.class" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/NavigableSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/lang/Comparable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/Comparator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/SortByName.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/EmployeeWithComparable.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParseLambTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseWithOutLamb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLamb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/math/BigInteger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortercomp/ParseLambUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LambdasAndStreams</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
